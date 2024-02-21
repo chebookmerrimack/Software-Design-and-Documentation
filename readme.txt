@@ -1,0 +1,2 @@
+
+To run the Java program "SortedLinkedList.java" from the Windows command line, navigate to the directory containing the file using cd command, compile it using javac SortedLinkedList.java, then run it with java SortedLinkedList
